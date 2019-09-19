@@ -1,0 +1,8 @@
+S03: S
+TF01: Write it - s  
+S03: e,e, space o,f,f 
+TF01: uy, very good
+TF02: Okay, now..
+
+00:17 
+
