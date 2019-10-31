@@ -1,0 +1,7 @@
+TF01: Somebody, you, other Country. Colombia. Another Coutry, other country. Tell me the name
+SM01: Peru
+TF01: Good, Another one.
+SM01: Chile
+TF01: Chile
+
+00:16
